@@ -25,7 +25,7 @@ body {
   padding: 25px;
 }
 .header h6 {
-  background: #f0f0f0;
+  background: #f8f8f8;
   padding: 10px;
   color: black;
   font-size: 35px;
@@ -39,7 +39,7 @@ body {
 }
 .image h1 {
   margin: 0;
-  padding: 50px;
+  padding: 80px;
   width: 60%;
   background: rgba(0, 0, 0, 0.8);
   position: absolute;
@@ -64,7 +64,7 @@ body {
 }
 .nav a {
   font-size: 20px;
-  padding: 20px;
+  padding: 22px;
   text-decoration: none;
   color: black;
 }
@@ -99,6 +99,11 @@ body {
   margin: 22px 0;
   font-size: 18px;
 }
+.container .about {
+  text-align: center;
+  font-weight: bold;
+  line-height: 1.6em;
+}
 .container p {
   font-size: 18px;
   padding: 10px 0;
@@ -125,7 +130,7 @@ body {
   display: flex;
 }
 .test h6 {
-  color: #fdfe97;
+  color: #f3fa2c;
   padding: 1px;
 }
 
